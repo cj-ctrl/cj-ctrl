@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris.
-- 👀 I’m interested in game development, automation.
+- 👀 I’m interested in game development, web development, and automation.
 - 🌱 I’m currently learning JavaScript.
 <!---
 - 💞️ I’m looking to collaborate on ...
