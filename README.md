@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris.
 - 👀 I’m interested in game development, web development, and automation.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning JavaScript and Godot.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
